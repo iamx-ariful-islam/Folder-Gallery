@@ -18,7 +18,7 @@
 - ✅ **Responsive Design** – Optimized for desktop and mobile screens.
 
 
-## Technologies Used
+## 📌 Technologies Used
 
 - **HTML5** – Structure of the gallery.  
 - **CSS3** – Styling, hover effects, and responsive design.  
@@ -57,6 +57,7 @@ cd folder-gallery
 
 4. **Open `index.html` in your preferred web browser.**
 
+
 ## Usage
 
 1. Hover over any image to see the hover effect.
@@ -64,7 +65,7 @@ cd folder-gallery
 1. Use the slider arrows to navigate through all images in full view.
 
 
-## Folder Structure
+## 📂 Folder Structure
 Here’s the structure of the **Folder Gallery** project:
 
 ```bash
